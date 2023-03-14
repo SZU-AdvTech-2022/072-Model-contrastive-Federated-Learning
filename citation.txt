@@ -1,0 +1,6 @@
+@inproceedings{REPO-073,
+    author = "Li, Qinbin and He, Bingsheng and Song, Dawn",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    title = "{Model-contrastive Federated Learning}",
+    year = "2021"
+}
